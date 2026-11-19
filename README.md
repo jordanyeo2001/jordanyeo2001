@@ -40,21 +40,21 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 * **What Happened:** Shipped a stable, responsive multiplayer tank shooter with synchronized client state and punchy explosion effects.
 
-### 3. A Quiet Shift — 3D First-Person Horror-Puzzle (7-Day Game Jam)
+### 3. Duck Duck Goods - Duck Shopping Survival Game (48-Hour Game Jam)
 
-**Role:** Systems Architect | **Stack:** `C#` · `Unity`
+**Playable Web Build:** [Play in Browser on itch.io](https://jaslynnn.itch.io/duck-duck-goods) | **Source:** Private Team Repo (GameJam+ Global 26/27)
 
-* **The Problem:** Narrative-driven games built under tight jam deadlines often break down due to tightly coupled scene scripts, lost player settings, and fragile state transitions.
+**Role:** Gameplay & Economy Systems Programmer | **Stack:** `C#` · `Unity` · `WebGL`
 
-* **The Constraint:** Design, implement, and ship a complete, bug-free playable build within a strict **7-day development window**.
+* **Problem:** Ship a complete, replayable shop-survival game under the theme "One More Time" with a 4-person team inside a strict 48-hour game jam window.
 
-* **What I Tested:** End-to-end playthroughs across scene transitions, audio/display preference persistence, and branching event triggers under rapid iteration cycles.
+* **Constraint:** Zero room for scope creep or fragile state logic, as every mechanic had to be playable, balanced, and bug-free in a browser build within 48 hours.
 
-* **What Failed:** Hardcoded scene references initially caused state resets and audio setting regressions whenever scenes reloaded during playtesting.
+* **What Failed:** Early prototype runs lacked risk-reward tension between rounds, and players could soft-lock their economy if they overspent before unlocking higher-tier shop items.
 
-* **What Changed:** Engineered a decoupled global state manager, event-driven trigger bus, and persistent settings serialization pipeline so gameplay designers could add events without touching core systems.
+* **What Changed:** Built a keyboard-controlled shopping survival loop in Unity (C#) backed by a Waddles movement resource economy, a cashback carryover system between rounds, and a 10-day progressive shop catalogue expansion.
 
-* **What Happened:** Shipped a polished, zero-crash build on schedule with seamless scene persistence and modular event scripting.
+* **What Happened:** Delivered a finished WebGL build within the 48-hour deadline that runs directly in the browser with balanced multi-day progression and replayability.
 
 ## Project Summary
 
@@ -62,7 +62,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 | :--- | :--- | :--- | :--- | 
 | **Runi** | Gamified Mobile Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
 | **BitBlast** | 2D Multiplayer Tank Game | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
-| **A Quiet Shift** | 3D First-Person Horror Game (7-Day Jam) | Private Team Repo (Game Jam) | `C#`, `Unity` | 
+| **Duck Duck Goods** | 3-Day Shop Survival Game (48-Hour Jam) | [Play in Browser (itch.io)](https://jaslynnn.itch.io/duck-duck-goods) | `C#`, `Unity` |
 
 ## Core Technical Stack
 
