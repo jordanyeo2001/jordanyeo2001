@@ -62,7 +62,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 | :--- | :--- | :--- | :--- | 
 | **Runi** | Gamified Mobile Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
 | **BitBlast** | 2D Multiplayer Tank Game | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
-| **A Quiet Shift** | Constrained (7-Day Jam) | Private Team Repo (Game Jam) | `C#`, `Unity` | 
+| **A Quiet Shift** | 3D First-Person Horror Game (7-Day Jam) | Private Team Repo (Game Jam) | `C#`, `Unity` | 
 
 ## Core Technical Stack
 
