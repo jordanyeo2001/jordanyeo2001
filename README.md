@@ -62,7 +62,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 | :--- | :--- | :--- | :--- | 
 | **Runi** | Gamified Mobile Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
 | **BitBlast** | 2D Multiplayer Tank Game | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
-| **Duck Duck Goods** | 3-Day Shop Survival Game (48-Hour Jam) | [Play in Browser (itch.io)](https://jaslynnn.itch.io/duck-duck-goods) | `C#`, `Unity` |
+| **Duck Duck Goods** | Duck Shopping Survival Game (48-Hour Jam) | [Play in Browser (itch.io)](https://jaslynnn.itch.io/duck-duck-goods) | `C#`, `Unity` |
 
 ## Core Technical Stack
 
