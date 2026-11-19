@@ -8,7 +8,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 ## Engineering Case Studies
 
-### 1. Runi — Cross-Platform Running & Ghost-Racing Engine *(Flagship · Non-Game Project)*
+### 1. Runi — Cross-Platform Running & Ghost-Racing Engine
 
 **Role:** Graphics & Systems Programmer | **Stack:** `C++20` · `OpenGL ES 3.0` · `OpenGL 4.3` · `Android JNI / Kotlin` · `SDL3` · `Mapbox` · `FreeType`
 
@@ -24,7 +24,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 * **What Happened:** Verified $< 0.5\text{ px}$ **maximum alignment drift** across **Z12–Z18** and a locked **60 FPS** at $\le 10$ **draw calls/frame** on physical Pixel 9a hardware.
 
-### 2. BitBlast — 2D Multiplayer Pixel-Art Tank Shooter *(Proves Specific Skill: Networking & Particle Systems)*
+### 2. BitBlast — 2D Multiplayer Pixel-Art Tank Shooter
 
 **Role:** Network, Particle & Gameplay Systems Programmer | **Stack:** `C++` · `Winsock (TCP)` · `Alpha Engine`
 
@@ -58,10 +58,10 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 ## Project Summary
 
-| Project | Category | Repository Status | Core Tech | 
+| Project | Domain | Repository Status | Core Tech | 
 | :--- | :--- | :--- | :--- | 
-| **Runi** | Flagship (Non-Game) | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
-| **BitBlast** | Specific Skill (Networking & VFX) | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
+| **Runi** | Gamified Mobile Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
+| **BitBlast** | 2D Multiplayer Tank Game | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
 | **A Quiet Shift** | Constrained (7-Day Jam) | Private Team Repo (Game Jam) | `C#`, `Unity` | 
 
 ## Core Technical Stack
