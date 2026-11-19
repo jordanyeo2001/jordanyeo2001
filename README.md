@@ -8,7 +8,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 ## Engineering Case Studies
 
-### 1. Runi — Cross-Platform Running & Ghost-Racing Engine
+### 1. Runi - Android C++ & OpenGL ES Rendering Engine
 
 **Role:** Graphics & Systems Programmer | **Stack:** `C++20` · `OpenGL ES 3.0` · `OpenGL 4.3` · `Android JNI / Kotlin` · `SDL3` · `Mapbox` · `FreeType`
 
@@ -24,7 +24,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 * **What Happened:** Verified $< 0.5\text{ px}$ **maximum alignment drift** across **Z12–Z18** and a locked **60 FPS** at $\le 10$ **draw calls/frame** on physical Pixel 9a hardware.
 
-### 2. BitBlast — 2D Multiplayer Pixel-Art Tank Shooter
+### 2. BitBlast — 2D Multiplayer Tank Game
 
 **Role:** Network, Particle & Gameplay Systems Programmer | **Stack:** `C++` · `Winsock (TCP)` · `Alpha Engine`
 
@@ -60,7 +60,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 | Project | Domain | Repository Status | Core Tech | 
 | :--- | :--- | :--- | :--- | 
-| **Runi** | Gamified Mobile Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
+| **Runi** | Gamified Android Running App | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
 | **BitBlast** | 2D Multiplayer Tank Game | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
 | **Duck Duck Goods** | Duck Shopping Survival Game (48-Hour Jam) | [Play in Browser (itch.io)](https://jaslynnn.itch.io/duck-duck-goods) | `C#`, `Unity` |
 
