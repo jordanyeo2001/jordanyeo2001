@@ -40,7 +40,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 
 * **What Happened:** Shipped a stable, responsive multiplayer tank shooter with synchronized client state and punchy explosion effects.
 
-### 3. A Quiet Shift — Atmospheric Narrative Experience (7-Day Game Jam)
+### 3. A Quiet Shift — 3D First-Person Horror-Puzzle (7-Day Game Jam)
 
 **Role:** Systems Architect | **Stack:** `C#` · `Unity`
 
