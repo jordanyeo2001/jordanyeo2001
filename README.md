@@ -62,7 +62,7 @@ Systems, graphics, and gameplay programmer building custom C++ engines, cross-pl
 | :--- | :--- | :--- | :--- | 
 | **Runi** | Flagship (Non-Game) | Private Academic Repo | `C++20`, `OpenGL ES 3.0`, `Android JNI`, `SDL3` | 
 | **BitBlast** | Specific Skill (Networking & VFX) | Private Academic Repo | `C++`, `Winsock (TCP)`, `Alpha Engine` | 
-| **A Quiet Shift** | Constrained (7-Day Jam) | Private Academic Repo | `C#`, `Unity` | 
+| **A Quiet Shift** | Constrained (7-Day Jam) | Private Team Repo (Game Jam) | `C#`, `Unity` | 
 
 ## Core Technical Stack
 
